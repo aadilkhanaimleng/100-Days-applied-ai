@@ -1,0 +1,4 @@
+Day 2 Git Core Architecture Log:
+- Successfully initialized 'feature_branch' for isolation.
+- Created file state in a non-main timeline.
+- Practiced branch switching and local merge strategy.
